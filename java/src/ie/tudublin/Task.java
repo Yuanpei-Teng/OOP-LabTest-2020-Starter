@@ -28,5 +28,15 @@ public class Task {
     public String getTask()
 	{
         return Task;
-	}
+    }
+    
+    public int getStart()
+    {
+        return Start;
+    }
+
+    public int getEnd()
+    {
+        return End;
+    }
 }
